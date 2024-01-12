@@ -102,3 +102,13 @@ document.querySelector('.check').addEventListener('click', function () {
   }
 });
 console.log("Git");
+FUNTUGGHFHFHFGHHFV
+SFG
+S
+
+F
+F
+S
+FSD
+DFDF
+F
