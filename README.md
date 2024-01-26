@@ -1,22 +1,11 @@
 
-
-
-
-
-
-
-
-
  # About me
  
+ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage">
 <p>
-  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-
 </p>
-
-<br/>
 
 # Which one do you want?
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,8 +27,10 @@
 <a href="https://github.com/Am98172"><img alt="Am98172's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Am98172&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="100%"/></a>
 
 ## Photo of my first project 🤯👇👇
- <img align="center" width="100%" src="preview img.jpg" alt="Coding gif" />
+ <img align="center" width="100%" src="preview img.jpg" alt="first challenge" />
  
  # Don't forget my name
  
 https://github.com/Am98172
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
